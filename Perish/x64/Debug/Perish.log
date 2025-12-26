@@ -1,0 +1,110 @@
+﻿  main.cpp
+C:\Users\calvi\source\repos\Perish\Perish\main\mem\memify.h(31,30): error C2039: 'string_view': is not a member of 'std'
+  (compiling source file 'main/main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\calvi\source\repos\Perish\Perish\main\mem\memify.h(31,30): error C2061: syntax error: identifier 'string_view'
+  (compiling source file 'main/main.cpp')
+  
+C:\Users\calvi\source\repos\Perish\Perish\main\mem\memify.h(51,31): error C2039: 'string_view': is not a member of 'std'
+  (compiling source file 'main/main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\calvi\source\repos\Perish\Perish\main\mem\memify.h(51,31): error C2061: syntax error: identifier 'string_view'
+  (compiling source file 'main/main.cpp')
+  
+C:\Users\calvi\source\repos\Perish\Perish\main\mem\memify.h(101,14): error C2039: 'string_view': is not a member of 'std'
+  (compiling source file 'main/main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\calvi\source\repos\Perish\Perish\main\mem\memify.h(101,14): error C2061: syntax error: identifier 'string_view'
+  (compiling source file 'main/main.cpp')
+  
+C:\Users\calvi\source\repos\Perish\Perish\main\mem\memify.h(125,25): error C2039: 'string_view': is not a member of 'std'
+  (compiling source file 'main/main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\calvi\source\repos\Perish\Perish\main\mem\memify.h(125,25): error C2061: syntax error: identifier 'string_view'
+  (compiling source file 'main/main.cpp')
+  
+C:\Users\calvi\source\repos\Perish\Perish\main\mem\memify.h(158,32): error C2039: 'string_view': is not a member of 'std'
+  (compiling source file 'main/main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\calvi\source\repos\Perish\Perish\main\mem\memify.h(158,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main/main.cpp')
+  
+C:\Users\calvi\source\repos\Perish\Perish\main\mem\memify.h(158,44): error C2146: syntax error: missing ')' before identifier 'processName'
+  (compiling source file 'main/main.cpp')
+  
+C:\Users\calvi\source\repos\Perish\Perish\main\mem\memify.h(158,44): error C3646: 'processName': unknown override specifier
+  (compiling source file 'main/main.cpp')
+  
+C:\Users\calvi\source\repos\Perish\Perish\main\mem\memify.h(158,55): error C2059: syntax error: ')'
+  (compiling source file 'main/main.cpp')
+  
+C:\Users\calvi\source\repos\Perish\Perish\main\mem\memify.h(43,9): error C2065: 'processName': undeclared identifier
+  (compiling source file 'main/main.cpp')
+  
+C:\Users\calvi\source\repos\Perish\Perish\main\mem\memify.h(66,11): error C2065: 'moduleName': undeclared identifier
+  (compiling source file 'main/main.cpp')
+  
+C:\Users\calvi\source\repos\Perish\Perish\main\mem\memify.h(84,16): error C2660: 'memify::GetProcessId': function does not take 1 arguments
+  (compiling source file 'main/main.cpp')
+      C:\Users\calvi\source\repos\Perish\Perish\main\mem\memify.h(31,12):
+      see declaration of 'memify::GetProcessId'
+      C:\Users\calvi\source\repos\Perish\Perish\main\mem\memify.h(84,16):
+      while trying to match the argument list '(_Ty)'
+          with
+          [
+              _Ty=std::string
+          ]
+  
+C:\Users\calvi\source\repos\Perish\Perish\main\mem\memify.h(84,28): warning C4244: '=': conversion from '_T' to 'DWORD', possible loss of data
+C:\Users\calvi\source\repos\Perish\Perish\main\mem\memify.h(84,28): warning C4244:         with
+C:\Users\calvi\source\repos\Perish\Perish\main\mem\memify.h(84,28): warning C4244:         [
+C:\Users\calvi\source\repos\Perish\Perish\main\mem\memify.h(84,28): warning C4244:             _T=uintptr_t
+C:\Users\calvi\source\repos\Perish\Perish\main\mem\memify.h(84,28): warning C4244:         ]
+  (compiling source file 'main/main.cpp')
+  
+C:\Users\calvi\source\repos\Perish\Perish\main\mem\memify.h(106,28): error C2065: 'processName': undeclared identifier
+  (compiling source file 'main/main.cpp')
+  
+C:\Users\calvi\source\repos\Perish\Perish\main\mem\memify.h(127,24): error C2065: 'moduleName': undeclared identifier
+  (compiling source file 'main/main.cpp')
+  
+C:\Users\calvi\source\repos\Perish\Perish\main\mem\memify.h(160,23): error C2065: 'processName': undeclared identifier
+  (compiling source file 'main/main.cpp')
+  
+C:\Users\calvi\source\repos\Perish\Perish\main\mem\memify.h(170,3): error C2664: 'int GetWindowTextW(HWND,LPWSTR,int)': cannot convert argument 2 from 'char [256]' to 'LPWSTR'
+  (compiling source file 'main/main.cpp')
+      C:\Users\calvi\source\repos\Perish\Perish\main\mem\memify.h(170,26):
+      Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winuser.h(9005,1):
+      see declaration of 'GetWindowTextW'
+      C:\Users\calvi\source\repos\Perish\Perish\main\mem\memify.h(170,3):
+      while trying to match the argument list '(HWND, char [256], size_t)'
+  
+C:\Users\calvi\source\repos\Perish\Perish\main\main.cpp(27,2): error C2143: syntax error: missing ';' before 'while'
+  window.cpp
+C:\Users\calvi\source\repos\Perish\Perish\main\window\window.cpp(83,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\calvi\source\repos\Perish\Perish\main\window\window.cpp(42,17): warning C4101: 'modeDesc': unreferenced local variable
+C:\Users\calvi\source\repos\Perish\Perish\main\window\window.cpp(121,54): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+C:\Users\calvi\source\repos\Perish\Perish\main\window\window.cpp(225,21): error C2440: '=': cannot convert from 'const char [14]' to 'LPCWSTR'
+      C:\Users\calvi\source\repos\Perish\Perish\main\window\window.cpp(225,21):
+      Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+  
+C:\Users\calvi\source\repos\Perish\Perish\main\window\window.cpp(233,12): error C2664: 'HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)': cannot convert argument 3 from 'const char *' to 'LPCWSTR'
+      C:\Users\calvi\source\repos\Perish\Perish\main\window\window.cpp(236,3):
+      Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winuser.h(4439,1):
+      see declaration of 'CreateWindowExW'
+      C:\Users\calvi\source\repos\Perish\Perish\main\window\window.cpp(233,12):
+      while trying to match the argument list '(long, LPCWSTR, const char *, unsigned long, int, int, int, int, int, int, HINSTANCE, int)'
+  
+  Generating Code...
