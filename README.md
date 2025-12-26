@@ -27,3 +27,15 @@ This project exists to:
 - Build skills toward becoming a **game security / anti-cheat developer**
 
 If you are interested in offensive security, reverse engineering, or anti-cheat development, this project is intended as a **learning reference only** — not a tool for exploitation.
+
+
+## Supported FiveM Builds
+
+This project was developed and tested against the following **FiveM game builds**:
+
+```text
+b2699
+b2802
+b2944
+b3095
+b3258
