@@ -40,5 +40,3 @@ b2944
 b3095
 b3258
 
-<img width="2425" height="911" alt="image" src="https://github.com/user-attachments/assets/29f0d4e2-2910-411f-9ef2-02d3b5e62aab" />
-
