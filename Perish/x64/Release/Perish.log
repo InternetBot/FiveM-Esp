@@ -1,0 +1,13 @@
+﻿  game.cpp
+C:\Users\calvi\source\repos\Perish\Perish\main\mem\memify.h(85,28): warning C4244: '=': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+  (compiling source file 'main/game/game.cpp')
+  
+C:\Users\calvi\source\repos\Perish\Perish\main\mem\memify.h(108,27): warning C4244: '=': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+  (compiling source file 'main/game/game.cpp')
+  
+  Generating code
+  75 of 2080 functions ( 3.6%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    51 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Perish.vcxproj -> C:\Users\calvi\source\repos\Perish\x64\Release\Perish.exe
