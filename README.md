@@ -26,7 +26,14 @@ This project exists to:
 - Learn how anti-cheat systems detect and stop them  
 - Build skills toward becoming a **game security / anti-cheat developer**
 
-If you are interested in offensive security, reverse engineering, or anti-cheat development, this project is intended as a **learning reference only** — not a tool for exploitation.
+If you are interested in offensive security, reverse engineering, or anti-cheat development, this project is intended as a **learning reference only** not a tool for exploitation.
+
+## Controls
+
+| Key  | Action |
+|------|--------|
+| **F11** | Toggle the menu on / off |
+
 
 ![FiveM Cheat UI](Screenshot%202025-12-26%20182319.png)
 ![FiveM Cheat UI](Screenshot%202025-12-26%20183109.png)
